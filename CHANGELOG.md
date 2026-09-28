@@ -1,5 +1,23 @@
 # Changelog
 
+## [2.23.1](https://github.com/IsmaelMartinez/teams-for-linux/compare/v2.23.0...v2.23.1) (2026-09-28)
+
+
+### Bug Fixes
+
+* **config:** deep-merge object option defaults and system/user config ([#3014](https://github.com/IsmaelMartinez/teams-for-linux/issues/3014)) ([ab3a853](https://github.com/IsmaelMartinez/teams-for-linux/commit/ab3a853e56b36a1f8eaea94a33841df17bc62ea9))
+* **lint:** lint the whole repo and fix the errors it surfaces ([#3015](https://github.com/IsmaelMartinez/teams-for-linux/issues/3015)) ([a5f8811](https://github.com/IsmaelMartinez/teams-for-linux/commit/a5f881169e1d14af428d4e463beb258cdea725e9))
+
+
+### Documentation
+
+* **roadmap:** track WebAuthn on Linux and the Flatpak libfido2 bundle ([#3024](https://github.com/IsmaelMartinez/teams-for-linux/issues/3024)) ([d6a427e](https://github.com/IsmaelMartinez/teams-for-linux/commit/d6a427e8a0bdcca167dd9f45301daaab0bc2c653)), closes [#3008](https://github.com/IsmaelMartinez/teams-for-linux/issues/3008)
+
+
+### CI/CD
+
+* guard release-please PR output against empty step env ([#3017](https://github.com/IsmaelMartinez/teams-for-linux/issues/3017)) ([7de6f20](https://github.com/IsmaelMartinez/teams-for-linux/commit/7de6f203b7144cfd05f609157743e0d290db6f2c))
+
 ## [2.23.0](https://github.com/IsmaelMartinez/teams-for-linux/compare/v2.22.0...v2.23.0) (2026-09-26)
 
 
